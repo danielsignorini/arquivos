@@ -107,7 +107,7 @@
 
             <h1>Login</h1>
 
-            <label for="emailLogin">E-mail:</label>
+            <label for="emailLogin">Usuario:</label>
             <input type="email" id="emailLogin" name="emailLogin" required>
 
             <label for="senhaLogin">Senha:</label>
